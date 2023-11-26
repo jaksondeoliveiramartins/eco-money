@@ -1,0 +1,8 @@
+{
+  "name": "EcoMoney",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5539bb83"
+}
